@@ -1,6 +1,6 @@
 # ¡Hola, soy mamen617! 👋
 
-<img align="right" src="https://raw.githubusercontent.com/mamen617/mamen617/main/assets/coding.gif" width="250" alt="Coding gif">
+<img align="right" src="https://raw.githubusercontent.com/mamen617/mamen617/main/assets/spa-atmosphere-c64cbce3.jpg" width="250" alt="spa-atmosphere-c64cbce3.jpg">
 
 ¡Bienvenido a mi perfil de GitHub!  
 Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
